@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+ title: Connecting MongoDB with PyMongo
+ message: >-
+   If you use this software, please cite it using the
+   metadata from this file.
+ type: software
+ authors:
+   - given-names: Susmita
+     family-names: Gangopadhyay
+     orcid: '0009-0009-1520-9070'
+     affiliation: 'GESIS , Leibniz Institute for the Social Sciences'
+ abstract: >-
+  This project demonstrates how to connect to a MongoDB database using the PyMongo library in Python. It provides examples and best practices for establishing secure and efficient database connections, performing CRUD operations, and managing data in a MongoDB collection. The project is designed to help developers integrate MongoDB into their Python applications seamlessly.
+ keywords:
+   - text detoxification
+   - multilingual
+   - unsupervised learning
+   - natural language processing
+   - toxicity removal
+
+ license: Apache License

@@ -31,3 +31,6 @@ Easy
 John is a researcher who wants to generate some statistics for a huge data that is collected and stored in MongoDB collection. For connecting and exploring the huge dataset, he uses the pymongo library to generate details about the collection like size of the collection, number of records, number of documents and generates a dump out of the collection. He can then re use this method for any other data collected and stored in MongoDB to generate statistics out of the data.
 
 For more details, jump to the full tutorial on [A_guide_to_connecting_with_MongoDB_using_pymongo.ipynb](A_guide_to_connecting_with_MongoDB_using_pymongo.ipynb)
+
+## Contact
+Susmita.Gangopadhyay@gesis.org
